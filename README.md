@@ -1,1 +1,1 @@
-# AI-Voice-Assistant-using_RAG
+# AI-Voice-Assistant-using-RAG
