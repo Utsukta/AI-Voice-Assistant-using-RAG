@@ -1,0 +1,12 @@
+pyaudio
+wave
+numpy
+scipy
+os
+faster_whisperpip
+llama-index
+qdrant_client
+llama-index-vector-stores-qdrant
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+pyttsx3
